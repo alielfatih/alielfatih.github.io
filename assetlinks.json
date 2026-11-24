@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.alielfatih.mcquiz",
+    "sha256_cert_fingerprints": ["BB:B7:19:1B:98:B5:99:58:A1:30:F6:4C:8F:4D:69:A9:F7:D0:08:91:8C:F5:CC:2B:76:90:C7:A8:09:D7:DB:62"]
+  }
+}]
